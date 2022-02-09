@@ -3,8 +3,8 @@ import pyupbit
 import datetime
 import numpy as np
 
-access = "yRww0UgJhSlN7SCAy9N3zOKIuNrxfRtk1vt7WrZV"
-secret = "wnvXxJ12OUPzQTI6wCGL245XjlxoEM8ARCbKCPx1"
+access = "ACCESS"
+secret = "SECRET"
 
 
 def get_target_price(ticker, k=0.5):
